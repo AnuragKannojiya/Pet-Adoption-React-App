@@ -32,12 +32,13 @@ Make sure you have Node.js and npm installed.
 npm install
 
 4. set the environment .env files
+5. 
 MONGODB_URI=
 RAZORPAY_KEY_ID=
 RAZORPAY_KEY_SECRET=
 
 
-5. Start the development server
+6. Start the development server
 
 npm run dev    
 This will start the app on http://localhost:3000.
